@@ -5,7 +5,13 @@ Flutter Developer & Audio AI Engineer
 </h3>
 
 <p align="center">
-Building production-ready mobile applications and intelligent speech & audio systems.
+Building production-ready cross-platform applications and intelligent speech & audio systems.
+</p>
+
+<p align="center">
+  <a href="https://mahmoudbannan.com">Portfolio</a>
+  •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 </p>
 
 ---
