@@ -63,3 +63,13 @@ Building production-ready cross-platform applications and intelligent speech & a
 </p>
 
 
+---
+
+## 🤝 Let's Connect
+
+I'm open to opportunities involving **Flutter development, mobile applications, and Audio AI / Deep Learning**.
+
+- 🌐 **Portfolio:** [mahmoudbannan.com](https://mahmoudbannan.com)
+- 💼 **LinkedIn:** [linkedin.com/in/mahmoudbannan](https://www.linkedin.com/in/mahmoudbannan)
+- 📧 **Email:** mahmoudmnb2000.2004@gmail.com
+
